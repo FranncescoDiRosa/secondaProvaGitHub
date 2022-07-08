@@ -100,6 +100,9 @@ public class Main {
 
         System.out.println("\n ***** Ordinate per nome *****");
         peopleOrderedByName.forEach(System.out::println);
+        
+        //modifica
+        System.out.println("Modifica da portare in remoto");
 
 
     }
